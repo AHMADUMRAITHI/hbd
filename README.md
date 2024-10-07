@@ -19,6 +19,7 @@ daftar parameter:
 nama yang ulang tahun. contoh:
 
 `https://github.com/AHMADUMRAITHI/hbd/?name=ajaaa`
+
 `https://github.com/AHMADUMRAITHI/hbd/?name=["cuttt","ajaaa","safitri"]`
 
 
